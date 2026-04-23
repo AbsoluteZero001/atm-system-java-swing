@@ -182,9 +182,9 @@ String password = "123456";    // 改为你的数据库密码
 
 ## 项目截图
 
-![登录界面](src/images/LoginTest.png)
-![注册界面](src/images/RegisterTest.png)
-![主界面](src/images/MainTest.png)
+![登录界面](ATM/src/images/LoginTest.png)
+![注册界面](ATM/src/images/RegisterTest.png)
+![主界面](ATM/src/images/MainTest.png)
 
 ## 许可证
 
