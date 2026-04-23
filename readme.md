@@ -185,7 +185,47 @@ String password = "123456";    // 改为你的数据库密码
 ![登录界面](ATM/src/images/LoginTest.png)
 ![注册界面](ATM/src/images/RegisterTest.png)
 ![主界面](ATM/src/images/MainTest.png)
+![存取款](ATM/src/images/DepositWithdraw.png)
+![定存咨询](ATM/src/images/RegularConsultation.png)
+![贷款咨询](ATM/src/images/LoanConsultation.png)
+![未来资产](ATM/src/images/FutureAssets.png)
+
+
 
 ## 许可证
 
-本项目仅供学习交流使用。
+---
+
+## 📬 Contact Me | 联系我
+
+如有问题、建议或合作交流，欢迎通过以下方式联系我：
+
+[![Email Me](https://img.shields.io/badge/Email-absolutezero.cold200@simplelogin.com-blue?style=for-the-badge)](mailto:absolutezero.cold200@simplelogin.com)
+
+---
+
+## 👤 Author | 作者信息
+ 
+https://github.com/AbsoluteZero001  
+
+本项目由本人独立开发与维护，主要用于 Java Swing + MySQL 学习与实践。
+
+---
+
+## ⚖️ Copyright | 著作权声明
+
+© 2026 All Rights Reserved.  
+
+本项目为原创学习项目，仅用于学习交流与技术研究目的。  
+未经授权禁止用于商业用途、二次发布或剽窃行为。
+
+如有引用或使用需求，请提前联系作者获得授权。
+
+---
+
+## 📌 项目说明补充
+
+- 本项目遵循开源学习与技术交流原则
+- 不涉及任何真实银行业务
+- 数据均为模拟测试数据
+- 欢迎 Fork 与学习
